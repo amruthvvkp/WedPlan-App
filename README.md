@@ -1,4 +1,4 @@
-# WedPlan-App
+# eve&task
 An Android/iOS application built on flutter to plan weddings/events including managing milestones, tasks, deadlines and budgets.
 
 ## Features
