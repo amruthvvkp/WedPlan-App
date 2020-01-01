@@ -10,7 +10,7 @@ An Android/iOS application built on flutter to plan weddings/events including ma
 ## Development Tooling, Frameworks
 * Flutter with Dart
 
-### Getting Started
+## Getting Started
 To kick off development on this project - https://github.com/amruthvvkp/eve-task/wiki/Getting-Started
 
 For further details refer the wiki - https://github.com/amruthvvkp/eve-task/wiki
